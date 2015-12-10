@@ -1,0 +1,22 @@
+{
+  "name": "@applane/privatemodule2",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "file2.js",
+  "scripts": {
+    "test": "node file2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourbh-daffodilsw/privatemodule2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sourbh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourbh-daffodilsw/privatemodule2/issues"
+  },
+  "homepage": "https://github.com/sourbh-daffodilsw/privatemodule2#readme"
+}
